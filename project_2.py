@@ -1,6 +1,6 @@
 
 end_num = int(input("What number would you like to end at? "))
-even_odd = input("Whould youl like me to add the even, odd or all of the numbers? ")
+even_odd = input("Whould you like me to add the even, odd or all of the numbers? ")
 
 def fib():
     a = 0
